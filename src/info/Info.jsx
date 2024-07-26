@@ -54,28 +54,28 @@ export const info = {
     ],
     socials: [
         {
-            link: "https://facebook.com",
-            icon: 'fa fa-facebook',
+            link: "https://www.facebook.com/waleedzafar.don",
+            icon: 'fab fa-facebook',
             label: 'facebook'
         },
         {
-            link: "https://instagram.com",
-            icon: 'fa fa-instagram',
+            link: "https://www.instagram.com/waleedzafar4578/",
+            icon: 'fab fa-instagram',
             label: 'instagram'
         },
         {
-            link: "https://github.com",
-            icon: "fa fa-github",
+            link: "https://github.com/waleedzafar4578/",
+            icon: "fab fa-github",
             label: 'github'
         },
         {
-            link: "https://linkedin.com",
-            icon: "fa fa-linkedin",
+            link: "https://www.linkedin.com/in/waleed-zafar-358ba92bb/",
+            icon: "fab fa-linkedin",
             label: 'linkedin'
         },
         {
-            link: "https://twitter.com",
-            icon: "fa fa-twitter",
+            link: "https://www.threads.net/@waleedzafar4578",
+            icon: "fab fa-twitter",
             label: 'twitter'
         }
 // Feel free to remove any of these that you don't have. I'll write an FAQ on how to add new ones later, let me know if you have a request for an icon!

@@ -1,7 +1,6 @@
-import React, { useState } from 'react';
+
 import Style from './Navbar.module.scss';
 import Toggler from "./home/Toggler.jsx";
-import { useLocation } from "react-router-dom";
 import { HashLink as Link } from 'react-router-hash-link';
 import { Box } from "@mui/material";
 import { info } from "../info/Info.jsx";
@@ -22,7 +21,7 @@ const links = [
         name: info.initials,
         type: 'initials',
         to: '',
-        active: 'home'
+        active: 'Home'
     },
     {
         name: 'Portfolio',
