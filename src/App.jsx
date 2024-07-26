@@ -1,12 +1,16 @@
+import './App.module.scss';
+import BaseLayout from "./components/BaseLayout.jsx";
+import {BrowserRouter} from "react-router-dom";
 
 function App() {
-
-
-  return (
-    <h1>
-      helloWorld
-    </h1>
-  )
+   return (
+      <div>
+         <BrowserRouter>
+            <BaseLayout/>
+         </BrowserRouter>
+      </div>
+   );
 }
 
-export default App
+
+export default App;
